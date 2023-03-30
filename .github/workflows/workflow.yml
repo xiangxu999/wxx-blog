@@ -1,4 +1,4 @@
-name: CI
+name: blog-workflow
 
 on:
   push:
@@ -18,7 +18,7 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v1
         with:
-          node-version: "10.x"
+          node-version: "v14.18.0"
 
       - name: Build project
         run: yarn && yarn build
