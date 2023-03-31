@@ -25,20 +25,26 @@ module.exports = {
       { text: '分类', link: '/categories/' },
       { text: '标签', link: '/tags/' },
       {
-        text: '知识专题', link: '/pages/399854/', items: [
+        text: '知识专题', link: '/pages/a4154d/', items: [
+          { text: 'Java基础', link: '/pages/a4154d/' },
+          { text: 'Java集合', link: '/pages/34e020/' },
           { text: 'MySQL', link: '/pages/399854/' },
           { text: 'Redis', link: '/pages/27fac0/' },
+          { text: 'JVM', link: '/pages/925725/' },
+          { text: '多线程', link: '/pages/9a5876/' },
+          { text: '计算机网络', link: '/pages/fb1128/' },
+          { text: '操作系统', link: '' },
         ]
       },
       {
-        text: '案例归档', items: [
+        text: '案例归档', link: '/pages/08e4d5/', items: [
           { text: '案例实践', link: '/pages/08e4d5/' },
           { text: '工具使用', link: '/pages/4ab127/' },
           { text: '项目搭建', link: '/pages/f6c352/' }
         ]
       },
       {
-        text: '技术思想', items: [
+        text: '技术思想', link: '/pages/882466/', items: [
           { text: '设计模式', link: '/pages/882466/' },
           { text: '算法思想', link: '/pages/f060e8/' },
         ]
@@ -57,7 +63,7 @@ module.exports = {
     // editLinkText: '编辑',
 
     // 以下配置是Vdoing主题改动的和新增的配置
-    sidebar: { mode: 'structuring', collapsable: false }, // 侧边栏  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | 自定义    温馨提示：目录页数据依赖于结构化的侧边栏数据，如果你不设置为'structuring',将无法使用目录页
+    sidebar: { mode: 'structuring', collapsable: true }, // 侧边栏  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | 自定义    温馨提示：目录页数据依赖于结构化的侧边栏数据，如果你不设置为'structuring',将无法使用目录页
 
     // sidebarOpen: false, // 初始状态是否打开侧边栏，默认true
     updateBar: { // 最近更新栏
