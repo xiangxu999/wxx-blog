@@ -15,7 +15,7 @@ features: # 可选的
   details: 实践、工具、框架使用
   link: /pages/08e4d5/
 - title: 技术思想
-  details: 思想源于生活
+  details: 思想源于生活、技术服务生活
   link: /pages/882466/
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 # postList: detailed
