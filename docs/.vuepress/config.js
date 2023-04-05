@@ -49,6 +49,7 @@ module.exports = {
         text: '技术思想', link: '/pages/882466/', items: [
           { text: '设计模式', link: '/pages/882466/' },
           { text: '算法思想', link: '/pages/f060e8/' },
+          { text: '编码规范', link: '/pages/b54a3e/' },
         ]
       },
       { text: '友链', link: '/links/' },
