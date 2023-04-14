@@ -114,7 +114,7 @@ module.exports = {
     },
     footer: { // 页脚信息
       createYear: 2021, // 博客创建年份
-      copyrightInfo: '旭日 | 蜀ICP备2021000788号-1', // 博客版权信息，支持a标签
+      copyrightInfo: '旭日 | <a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2021000788号-1</a>', // 博客版权信息，支持a标签
     },
     htmlModules,
   },
