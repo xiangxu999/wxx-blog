@@ -35,6 +35,7 @@ module.exports = {
           { text: '计算机网络', link: '/pages/fb1128/' },
           { text: '操作系统', link: '' },
           { text: 'Spring', link: '/pages/488b79/' },
+          { text: 'Kafka', link: '/pages/372757/' },
           { text: '面试专题', link: '/pages/bd1ca6/' }
         ]
       },
