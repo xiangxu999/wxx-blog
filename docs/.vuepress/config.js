@@ -45,6 +45,8 @@ module.exports = {
           { text: '工具使用', link: '/pages/4ab127/' },
           { text: '项目搭建', link: '/pages/f6c352/' },
           { text: '服务治理', link: '/pages/ea55b7/' },
+          { text: 'ORM框架', link: '/pages/814377/' },
+          { text: '分布式组件', link: '' },
         ]
       },
       {
