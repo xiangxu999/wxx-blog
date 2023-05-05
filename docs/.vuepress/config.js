@@ -6,7 +6,7 @@ module.exports = {
   theme: 'vdoing', // 使用依赖包主题
   // theme: require.resolve('../../vdoing'), // 使用本地主题 (先将vdoing主题文件下载到本地：https://github.com/xugaoyi/vuepress-theme-vdoing)
 
-  title: "旭日博客",
+  title: "Miyazono Kaori",
   description: '一个基于VuePress的 知识管理&博客 主题',
   // base: '/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
   head: [ // 注入到页面<head> 中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
@@ -47,6 +47,7 @@ module.exports = {
           { text: '服务治理', link: '/pages/ea55b7/' },
           { text: 'ORM框架', link: '/pages/814377/' },
           { text: '分布式组件', link: '' },
+          { text: 'MiniSpring', link: '/pages/9d7919/' }
         ]
       },
       {
