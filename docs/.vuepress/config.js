@@ -36,6 +36,7 @@ module.exports = {
           { text: '操作系统', link: '' },
           { text: 'Spring', link: '/pages/488b79/' },
           { text: 'Kafka', link: '/pages/372757/' },
+          { text: 'Elasticsearch', link: '/pages/f2d255/' },
           { text: '面试专题', link: '/pages/bd1ca6/' }
         ]
       },
