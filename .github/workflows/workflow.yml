@@ -18,7 +18,7 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v1
         with:
-          node-version: "v14.18.0"
+          node-version: "v18.17.1"
 
       - name: Build project
         run: yarn && yarn build
