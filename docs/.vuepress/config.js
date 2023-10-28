@@ -37,6 +37,7 @@ module.exports = {
           { text: 'Spring', link: '/pages/488b79/' },
           { text: 'Kafka', link: '/pages/372757/' },
           { text: 'Elasticsearch', link: '/pages/f2d255/' },
+          { text: 'Python', link: '/pages/6f93e4/' },
           { text: '面试专题', link: '/pages/bd1ca6/' }
         ]
       },
